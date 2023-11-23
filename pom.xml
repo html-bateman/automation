@@ -23,7 +23,7 @@
 					<configuration>
 						<suiteXmlFiles>
 							<!-- TestNG suite XML files -->
-							<suiteXmlFile>testXmlFiles/amazonHomepage.xml</suiteXmlFile>
+							<suiteXmlFile>testxml/loginTests.xml</suiteXmlFile>
 						</suiteXmlFiles>
 					</configuration>
 				</plugin>
